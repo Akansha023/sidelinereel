@@ -1,8 +1,3 @@
----
-
-### `app.py`
-
-```python
 """
 SidelineReel: Smart Player Match Review Prototype
 ==================================================
